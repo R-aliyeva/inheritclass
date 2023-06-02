@@ -1,0 +1,15 @@
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\obj\Debug\net6.0\inheritclass.csproj.AssemblyReference.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\obj\Debug\net6.0\inheritclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\obj\Debug\net6.0\inheritclass.AssemblyInfoInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\obj\Debug\net6.0\inheritclass.AssemblyInfo.cs
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\obj\Debug\net6.0\inheritclass.csproj.CoreCompileInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\bin\Debug\net6.0\inheritclass.exe
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\bin\Debug\net6.0\inheritclass.deps.json
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\bin\Debug\net6.0\inheritclass.runtimeconfig.json
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\bin\Debug\net6.0\inheritclass.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\bin\Debug\net6.0\inheritclass.pdb
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\obj\Debug\net6.0\inheritclass.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\obj\Debug\net6.0\refint\inheritclass.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\obj\Debug\net6.0\inheritclass.pdb
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\obj\Debug\net6.0\inheritclass.genruntimeconfig.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\inheritclass\inheritclass\obj\Debug\net6.0\ref\inheritclass.dll
